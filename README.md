@@ -17,4 +17,4 @@ You should unzip the folder. With CodeBlocks, the .cbp file can be opened and ex
 The .h and .cpp files contained in the zip folder have also been shown separately to allow easy accessibility to the code, without the
 need for downloading the zip folder and interest in executing the program. 
 
-Attached is example text output of a given run of the program. 
+Attached in "Example Output" is example text output of a given run of the program. 

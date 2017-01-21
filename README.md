@@ -13,8 +13,6 @@ two parent classes, Human and Wolf.
 Note that this project was originally developed with the CodeBlocks IDE and may not be compatible with
 other IDEs (not thoroughly tested). 
 
-You should unzip the folder. With CodeBlocks, the .cbp file can be opened and executed to run the program. 
-The .h and .cpp files contained in the zip folder have also been shown separately to allow easy accessibility to the code, without the
-need for downloading the zip folder and interest in executing the program. 
+For running the program, you should unzip the "PolyTown.zip" folder. With CodeBlocks, the .cbp file can be opened and executed to run the program. The .h and .cpp files contained in the zip folder have also been shown separately to allow easy accessibility to the code, without the need for downloading the zip folder and interest in executing the program. 
 
 Attached in "Example Output" is example text output of a given run of the program. 

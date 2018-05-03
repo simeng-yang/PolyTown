@@ -12,9 +12,4 @@ Human and Others have their own respective derivative classes, including Vampire
 Troll and Dwarf. Furthermore, the Werewolf class exhibits multiple inheritance with respect to
 two parent classes, Human and Wolf, a feature more unique to C++.
 
-Note that this project was originally developed with the CodeBlocks IDE and may not be compatible with
-other IDEs (not thoroughly tested). 
-
-For running the program, you should unzip the "PolyTown.zip" folder. With CodeBlocks, the .cbp file can be opened and executed to run the program. The .h and .cpp files contained in the zip folder have also been shown separately to allow easy accessibility to the code, without the need for downloading the zip folder and interest in executing the program. 
-
 Attached in "Example Output" is example text output of a given run of the program. 
